@@ -291,12 +291,7 @@ button {
   flex-basis: 50%;
   font-weight: 600;
 }
-.btn p-4 {
-  border-radius: 0;
-  height: 3rem;
-  flex-basis: 50%;
-  font-weight: 600;
-}
+
 
 .arrow {
   border: var(--border);
